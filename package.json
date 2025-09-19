@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "dayjs": "^1.11.13",
+    "uview-plus": "^3.4.45"
+  },
+  "devDependencies": {
+    "imagemin": "^9.0.1",
+    "imagemin-webp": "^8.0.0",
+    "sass": "^1.63.2",
+    "sass-loader": "^10.4.1"
+  },
+  "scripts": {
+      "compress-images": "node compress-images.js"
+    }
+}

@@ -1,0 +1,29 @@
+
+.container.data-v-4c1b26cf {
+  padding: 40rpx;
+  padding-bottom: 120rpx;
+background-color: rgb(239, 242, 235);
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+.card.data-v-4c1b26cf {
+  background: #fff;
+  padding: 30rpx;
+  border-radius: 16rpx;
+  margin-bottom: 40rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.label.data-v-4c1b26cf {
+  font-size: 28rpx;
+  color: #333;
+}
+.value.data-v-4c1b26cf {
+  font-size: 28rpx;
+  color: #666;
+}
+.btn-danger.data-v-4c1b26cf {
+ background: rgba(148, 166, 66, 0.9);
+ color: #fff;
+}

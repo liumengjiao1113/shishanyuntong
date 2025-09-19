@@ -1,0 +1,15 @@
+{
+  "hash": "29c342ef",
+  "configHash": "0f9315ef",
+  "lockfileHash": "84ce0e71",
+  "browserHash": "6321f159",
+  "optimized": {
+    "uview-plus": {
+      "src": "../../../../../node_modules/uview-plus/index.js",
+      "file": "uview-plus.js",
+      "fileHash": "fbaaf74d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

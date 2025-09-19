@@ -1,0 +1,1 @@
+<view class="tab-bar"><view class="tab-item" bindtap="{{c}}"><image src="{{a}}"/><text class="{{[b && 'active']}}">任务</text></view><view class="tab-item" bindtap="{{f}}"><image src="{{d}}"/><text class="{{[e && 'active']}}">我的</text></view></view>

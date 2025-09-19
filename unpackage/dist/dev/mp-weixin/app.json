@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/message/message",
+    "pages/task-detail/task-detail",
+    "pages/collect/collect",
+    "pages/result/result"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "图片地理信息"
+    }
+  },
+  "usingComponents": {}
+}
